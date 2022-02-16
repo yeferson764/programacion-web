@@ -1,0 +1,75 @@
+/* Selectores*/
+
+*{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+body{
+    background: black;
+}
+
+h1{
+    background-color: rgb(255, 192, 203);
+    text-align: center;
+    color: black;
+    padding: 5px;
+    border: white solid;
+}
+
+h2{
+    background: #fff;
+    color: black;
+}
+
+a{
+
+    text-decoration: none;
+    font-size: 20px;
+}
+
+h2:hover{
+    background: #fff
+}
+
+footer a{
+    color: rgb(5, 219, 219);
+}
+
+#descripcion{
+    background: pink;
+    text-align: center;
+    padding: 15px;
+    margin: 12px;
+    border: solid white;
+    border-radius: 3%;
+}
+
+.tituloUno{
+    background:rgb(255, 156, 200); 
+}
+
+.tituloDos{
+    background:rgb(255, 156, 200); 
+}
+
+.tituloTres{
+    background:rgb(255, 156, 200); 
+}
+
+.parrafoUno{
+    margin: 30px;
+    border-bottom: solid black 2px;
+    padding-bottom: 9px;
+}
+
+.parrafoDos{
+    margin: 30px;
+}
+
+.parrafoTres{
+    margin: 30px;
+    border-bottom: solid black 2px;
+    padding-bottom: 9px;
+}
+
+
+
